@@ -7,11 +7,4 @@ image:
   feature: 
 ---
 
-I'm just a normal guy. I love CSGO Betting and gambling as a way to past time! Also a beast CSGO player!
-
-> Live in Sydney
->
-> Still in school
-> 
-> 
-> ### *Welcome all.* ###
+I'm just a normal guy living in Sydney. Just living my life :)
