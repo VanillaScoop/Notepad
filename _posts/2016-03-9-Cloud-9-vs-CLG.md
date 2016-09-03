@@ -2,8 +2,8 @@
 layout: post
 title: Cloud 9 vs CLG
 description: "LETS GO "
-headline: 
-categories: 
+headline: CSGO Betting
+categories: personal
 tags: 
   - predictions
 imagefeature: "website-speed.jpg"
