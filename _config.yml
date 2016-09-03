@@ -13,7 +13,7 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Just a normal guy
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        csgobetprofits
+        
 
  
 # Analytics and webmaster tools stuff goes here
