@@ -1,5 +1,5 @@
 title:            VanillaScoop  
-description:      "CSGO Betting"
+description:      "CSGO Betting Predictions"
 logo:             logo3.png
 disqus_shortname: 
 share:            true
@@ -32,8 +32,8 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
+  - title: Predictions
+    url: /predictions
   - title: About Me 
     url: /about
 
