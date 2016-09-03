@@ -60,7 +60,7 @@ kramdown:
     coderay_css: class
 
 prose:
-  rooturl: '_posts'
+  rooturl: '_predictions
   siteurl: 'http://vanillascoop.github.io/'
   relativeLinks: 'http://vanillascoop.github.io/links.jsonp'
   media: 'images'
