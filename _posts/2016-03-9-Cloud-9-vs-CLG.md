@@ -1,10 +1,29 @@
-**Cloud 9 vs CLG**
+---
+layout: post
+title: Cloud 9 vs CLG
+description: "LETS GO "
+headline: 
+categories: 
+tags: 
+  - predictions
+imagefeature: "website-speed.jpg"
+imagecredit: 
+imagecreditlink: 
+comments: false
+mathjax: null
+featured: true
+published: true
+---
+
 
 Hey guys. This will be my first CSGO related post on my new website! 
 
+
 ![]({{site.baseurl}}/images/Screenshot%20(49).png)
 
+
 I feel confident that Cloud 9 will win this one. Like I have said before, they are insane and the best NA team by far currently.
+
 
 ![]({{site.baseurl}}/images/Screenshot%20(50).png)
 
