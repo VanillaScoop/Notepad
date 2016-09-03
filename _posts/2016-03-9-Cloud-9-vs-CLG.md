@@ -6,7 +6,7 @@ Hey guys. This will be my first CSGO related post on my new website!
 
 I feel confident that Cloud 9 will win this one. Like I have said before, they are insane and the best NA team by far currently.
 
-![]({{site.baseurl}}/images/Screenshot%20(50).png
+![]({{site.baseurl}}/images/Screenshot%20(50).png)
 
 They have been performing really well and they haven't been losing easy games or dropping any maps recently.
 CLG has a bunch of new players now and frankly, I don't think they are as good as before. They did beat NRG yesterday and a random NA team before that but they simply can't compete against Cloud 9. Cloud 9's players are just stepping up, Nothing got 31 kills against ACE and stewie is simply unstoppable. 
