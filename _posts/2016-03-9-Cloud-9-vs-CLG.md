@@ -36,3 +36,5 @@ CLG has a bunch of new players now and frankly, I don't think they are as good a
 I think worst case scenario is CLG picking one map but this is NA C.S here so really don't know but Cloud 9 should be the victor here.
 
 **My Bet: 3% on Cloud 9**
+
+EDIT: Cloud 9 WON
