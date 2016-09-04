@@ -61,10 +61,6 @@ Definitely skipping this one. F3 is not a team to be underestimated even though 
 
 
 
-**Dignitas vs Astralis**
-
-Coming soon!
-
 
 -------------------------------------------------------------------
 [Steam Group](http://steamcommunity.com/groups/csgobetprofits)
