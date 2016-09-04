@@ -65,3 +65,9 @@ Definitely skipping this one. F3 is not a team to be underestimated even though 
 
 Coming soon!
 
+
+-------------------------------------------------------------------
+[Steam Group](http://steamcommunity.com/groups/csgobetprofits)
+[Spreadsheet](https://docs.google.com/spreadsheets/d/13MlmHE2fm4qRCgWzPbshnqwbSToKvYS2b9pk_QHxgOo/edit#gid=0)
+	
+
