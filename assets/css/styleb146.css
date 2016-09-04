@@ -138,8 +138,9 @@ h1, h2, h3, h4, h5, h6 {
 .summer-site-head .summer-site-head-content {
   width: 100%;
   text-align: center;
-  background-color: black;
-  background-size: cover; }
+    background-size: cover; }
+  background-image: url("Nvbxuyf.png");
+  
   .summer-site-head .summer-site-head-content .summer-site-head-title-bg {
     display: inline-block;
     padding: 0.625rem;
