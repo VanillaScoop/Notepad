@@ -35,7 +35,7 @@ Of course GODSENT has been just beasting with their new lineup but they aren't i
 
 **My Bet: 1% on FaZe**
 
-
+-------------------------------------------------------------------
 
 **Gambit vs Mousesports**
 
@@ -46,14 +46,18 @@ I personally am skipping this one. Odds are not worth to bet on mousesports and 
 
 
 
+-------------------------------------------------------------------
 
-<h1>EnVyUs vs FlipSid3</h1)
+
+**EnVyUs vs FlipSid3**
 
 Definitely skipping this one. F3 is not a team to be underestimated even though they are doing crap recently. But then again, they have been playing teams which are better than them. nV do look like they are getting their shit together but with 1.25 odds, I am definitely not going risk it.
 
 **My Bet: SKIP**
 
 
+
+-------------------------------------------------------------------
 
 
 
