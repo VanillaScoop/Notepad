@@ -21,9 +21,13 @@ Lots of interesting matches today. Hope we make some good profit
 
 <h1>GODSENT vs FaZe</h1)
 
-Ok the bottom line is that FaZe shouldn't be getting extremely high odds. They have been a tad inconsistent lately and they at first glance look like they are doing crap but if you look at their results closer, you can see that FaZe is just an inconsistent side
+Ok the bottom line is that FaZe shouldn't be be getting extremely high odds. They have been a tad inconsistent lately and they at first glance look like they are doing crap but if you look at their results closer, you can see that FaZe is just an inconsistent side
+
+
 
 ![]({{site.baseurl}}/images/Screenshot%20(53).png)
+
+
 
 They beat X in two BO1s but lost 16-0 and 16-4 in their next matchup. Then they beat VP which is an extremely good result. They lost to nV but beat G2 and the rest is like a repeat.
 FaZe still is kinda adjusting to allu in a bit but they still are a team to be reckoned with. 
@@ -31,6 +35,7 @@ FaZe still is kinda adjusting to allu in a bit but they still are a team to be r
 Of course GODSENT has been just beasting with their new lineup but they aren't invincible and a FaZe upset here is possible.
 
 **My Bet: 1% on FaZe**
+
 
 
 <h1>Gambit vs Mousesports</h1)
@@ -41,11 +46,16 @@ I personally am skipping this one. Odds are not worth to bet on mousesports and 
 **My Bet: SKIP**
 
 
+
+
 <h1>EnVyUs vs FlipSid3</h1)
 
 Definitely skipping this one. F3 is not a team to be underestimated even though they are doing crap recently. But then again, they have been playing teams which are better than them. nV do look like they are getting their shit together but with 1.25 odds, I am definitely not going risk it.
 
 **My Bet: SKIP**
+
+
+
 
 
 <h1>Dignitas vs Astralis</h1)
