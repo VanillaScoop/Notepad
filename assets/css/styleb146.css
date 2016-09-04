@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
       padding-bottom: 1.5625rem;
       font-size: 1rem; }
       .summer-blog-menu ul {
-        background: transparent;
+        background: Nvbxuyf.png;
         position: relative;
         width: auto;
         list-style-type: none;
@@ -132,13 +132,13 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
     letter-spacing: -0.0625rem; }
     .summer-site-head .summer-site-head-menu .title a {
-      color: white; }
+      color: black; }
       .summer-site-head .summer-site-head-menu .title a:hover {
-        color: white; }
+        color: black; }
 .summer-site-head .summer-site-head-content {
   width: 100%;
   text-align: center;
-  background-color: white;
+  background-color: black;
   background-size: cover; }
   .summer-site-head .summer-site-head-content .summer-site-head-title-bg {
     display: inline-block;
