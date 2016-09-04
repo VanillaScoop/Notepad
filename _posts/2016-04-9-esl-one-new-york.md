@@ -61,7 +61,7 @@ Definitely skipping this one. F3 is not a team to be underestimated even though 
 
 
 
-<h2>Dignitas vs Astralis</h2)
+**Dignitas vs Astralis**
 
 Coming soon!
 
