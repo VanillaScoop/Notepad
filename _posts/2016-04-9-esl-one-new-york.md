@@ -9,7 +9,7 @@ tags:
 imagefeature: Nvbxuyf.png
 imagecredit: 
 imagecreditlink: 
-comments: false
+comments: true
 mathjax: null
 featured: true
 published: true
