@@ -35,6 +35,7 @@ Of course GODSENT has been just beasting with their new lineup but they aren't i
 
 **My Bet: 1% on FaZe**
 
+Result: FaZe 2-1
 -------------------------------------------------------------------
 
 **Gambit vs Mousesports**
@@ -44,6 +45,7 @@ I personally am skipping this one. Odds are not worth to bet on mousesports and 
 
 **My Bet: SKIP**
 
+Result: Mousesports 2-0
 
 
 -------------------------------------------------------------------
@@ -55,7 +57,7 @@ Definitely skipping this one. F3 is not a team to be underestimated even though 
 
 **My Bet: SKIP**
 
-
+Result: nV 2-0
 
 -------------------------------------------------------------------
 
