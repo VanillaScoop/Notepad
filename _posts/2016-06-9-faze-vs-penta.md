@@ -39,7 +39,11 @@ However what FaZe lacks for their gameplay on Cache, they make up in individual 
 
 **Preparation vs SPIRIT**
 
-COMING SOON
+SPIRIT was one of my favourite teams to bet on. They used to be extremely consistent and a safe choice when betting. However they aren't playing that well lately with losses just building up. I guess you could justify that because they are playing teams their level or higher BUT Spirit at its peak a couple months back were destroying overdogs left, right and centre. Now they just love or have games too close for comfort or just get destroyed. However it isn't good to underestimate them and I have seen times when they just randomly start winning. I would personally favour them over Preparation but the circumstances have changed a little.
+
+Preparation is a pretty decent team. They have had mixed results lately. This is going to be short but the bottom line is that I think Preparation has what it takes here to upset Spirit. Alright that might not be very likely but they definitely have a chance to take one map at least. They managed to take a map off PENTA which SPIRIT coudln't even get 5 rounds off so performance wise, Preparation has been doing better. 
+
+**My Bet: 1-2% on Preparation to win at least one map**
 
 
 -------------------------------------------------------------------
