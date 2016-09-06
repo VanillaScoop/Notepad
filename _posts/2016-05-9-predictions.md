@@ -26,6 +26,7 @@ While ANOX is semi-decent, they aren't just good enough to play against HR.
 
 **My Bet: 10% on HR**
 
+Result: HR 2-1
 -------------------------------------------------------------------
 
 **GODSENT vs Mousesports**
@@ -36,6 +37,7 @@ I did say before that GODSENT should be favoured but I also say that they are ov
 
 **My Bet: 1-2% on Mousesports to win at least one map**
 
+Result: GODSENT 2-1
 
 -------------------------------------------------------------------
 [Steam Group](http://steamcommunity.com/groups/csgobetprofits)
