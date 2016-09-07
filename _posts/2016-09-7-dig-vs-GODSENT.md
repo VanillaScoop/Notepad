@@ -15,9 +15,9 @@ featured: true
 published: true
 ---
 
-Kinda busy today so I will be very quick and brief!
+<h1>Kinda busy today so I will be very quick and brief!</h1)
 
-![]({{site.baseurl}}/images/Screenshot%20(55).png)
+-------------------------------------------------------------------
 
 **Dignitas vs GODSENT**
 
@@ -35,6 +35,7 @@ I have to admit that NAVI's lineup looks really strong with the addition of simp
 
 **My Bet: 1-2% on Tyloo to get at least 8.5 rounds**
 **If not possible then consider a small bet on Tyloo**
+
 -------------------------------------------------------------------
 
 
