@@ -35,6 +35,7 @@ However what FaZe lacks for their gameplay on Cache, they make up in individual 
 
 **My Bet: 1% on PENTA**
 
+Result: 16-10 FaZe
 -------------------------------------------------------------------
 
 **Preparation vs SPIRIT**
@@ -45,7 +46,7 @@ Preparation is a pretty decent team. They have had mixed results lately. This is
 
 **My Bet: 1-2% on Preparation to win at least one map**
 
-
+Result: 2-1 Spirit
 -------------------------------------------------------------------
 [Steam Group](http://steamcommunity.com/groups/csgobetprofits)
 
