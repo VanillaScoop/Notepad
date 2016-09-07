@@ -15,7 +15,7 @@ featured: true
 published: true
 ---
 
-<h1>Kinda busy today so I will be very quick and brief!</h1)
+**Kinda busy today so I will be very quick and brief!**
 
 -------------------------------------------------------------------
 
