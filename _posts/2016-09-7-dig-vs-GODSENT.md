@@ -21,14 +21,19 @@ published: true
 
 **Dignitas vs GODSENT**
 
+![]({{site.baseurl}}/images/Screenshot%20(59).png)
+
 Ok fact is that Dignitas is capable of winning the BO1. They have taken a map off nearly every team they have playe with recently and their lineup is pretty strong too. 
 GODSENT of course the favoured team but we have seen that this 'all-star' lineup is not invicible. 
 
 **My Bet: 1% on Dignitas**
 
+
 -------------------------------------------------------------------
 
 **NAVI vs Tyloo**
+
+![]({{site.baseurl}}/images/Screenshot%20(60).png)
 
 This is going to be an easy choice for me. Tyloo is getting underestimated here. They are the best Asian team out there and they have shown before that they are more than capable of playing Tier 1 European teams. 
 I have to admit that NAVI's lineup looks really strong with the addition of simple and they have had extremely good results to match. However Tyloo are getting +6 odds on FANOBET which I believe is extremely unaccurate. I am going for the safer approach here. I am not entirely sure how Tyloo are going to perform but they should be able to pull of 9 rounds.
@@ -36,9 +41,12 @@ I have to admit that NAVI's lineup looks really strong with the addition of simp
 **My Bet: 1-2% on Tyloo to get at least 8.5 rounds**
 **If not possible then consider a small bet on Tyloo**
 
+
 -------------------------------------------------------------------
 
 **Astralis vs Heroic**
+
+![]({{site.baseurl}}/images/Screenshot%20(61).png)
 
 Alright at first glance, Astralis has been beasting lately. With wins over FaZe, EnVyUs, Digntias, they have every right to be overdog. However Heroic has beaten Astralis in a BO3 a few days ago and their lineup is a formidable foe. Heroic has had similar success however their opponents have been the less skilled NA teams but still good teams nevertheless. This is a BO1 situation and Astralis is in no way invincible. My bet is going to be on Heroic for this one, they are capable of winning against Astralis as shown before + the odds are pretty good for them
 
@@ -48,6 +56,8 @@ Alright at first glance, Astralis has been beasting lately. With wins over FaZe,
 -------------------------------------------------------------------
 
 **GODSENT vs deadweight**
+
+![]({{site.baseurl}}/images/Screenshot%20(62).png)
 
 Easiest bet of my life. There is no way in hell GODSENT is going to lose. They are just better at everything.... Sorry for the shit analysis but this is quite literally FREE MONEY.
 
