@@ -19,6 +19,7 @@ published: true
 -------------------------------------------------------------------
 **Dignitas vs Gambit**
 
+Coming soon!
 
 
 
@@ -30,4 +31,9 @@ Simple bet to make here. Astralis getting 3.00 odds on FANOBET is just ridiculou
 Basically no Tier 1 team should be getting 3.00 odds on a BO1
 
 **My Bet:1% on Astralis**
+
+
+-------------------------------------------------------------------
+More coming right up!
+
 
