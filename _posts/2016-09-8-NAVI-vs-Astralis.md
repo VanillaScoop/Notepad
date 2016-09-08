@@ -19,7 +19,7 @@ published: true
 -------------------------------------------------------------------
 **Dignitas vs Gambit**
 
-Coming soon!
+
 
 
 
@@ -34,6 +34,13 @@ Basically no Tier 1 team should be getting 3.00 odds on a BO1
 
 
 -------------------------------------------------------------------
-More coming right up!
+**VP vs VG.CyberZen**
 
+As seen with Tyloo and NAVI yesterday, top Asian teams really do have a chance against European ones. I consider CyberZen to be second best in Asia after Tyloo and they really have potential to beat VP in a BO1. The Chinese team performs well as a team and has a lot of individual firepower as well. 
+
+I would obviously favour VP but 1.14 odds in a BO1? VP aren't unbeatable and they have lost BO1s to Dig and PENTA recently so CyberZen really has a chance.
+
+**My Bet: 1% on CyberZen**
+
+-------------------------------------------------------------------
 
