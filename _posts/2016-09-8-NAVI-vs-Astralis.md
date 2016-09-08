@@ -43,4 +43,17 @@ I would obviously favour VP but 1.14 odds in a BO1? VP aren't unbeatable and the
 **My Bet: 1% on CyberZen**
 
 -------------------------------------------------------------------
+**Alternate aTTax vs GODSENT**
 
+Alright I am writing this as I am watching GODSENT pkay against NiP right now and personally I think GODSENT's game is off tonight. They aren't managing to take rounds and jW and znadjer are just peforming like crap. Right now the score is 14:5 in favour of NIP and ZNADJER HAS 2 KILLS. WTF! 
+But despite this, you have got to admit that they are the overdog by far. They defeated mousesports 2-1 and cleaned Dignitas out 16-3. However Alternate aTTax are no pushovers. They have a strong lineup and are more than capable of taking top teams. They destroyed F3 2-0 and they have had good results recently. I have followed AA for a while now since the beginning of this year and though they can be a tad inconsistent sometimes, they are worth the money on a underdog bet. Going to go for a safer option which I believe is possible if not probable.
+
+**My Bet: 1-2% on AA to win at least one map**
+**If not possible, then I advise you to skip the match**
+
+-------------------------------------------------------------------
+
+[Steam Group](http://steamcommunity.com/groups/csgobetprofits)
+
+-------------------------------------------------------------------
+[Spreadsheet](https://docs.google.com/spreadsheets/d/13MlmHE2fm4qRCgWzPbshnqwbSToKvYS2b9pk_QHxgOo/edit#gid=0)
