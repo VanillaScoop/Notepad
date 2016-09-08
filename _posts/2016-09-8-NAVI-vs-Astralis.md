@@ -19,9 +19,9 @@ published: true
 -------------------------------------------------------------------
 **Dignitas vs Gambit**
 
+This is probably the most risky bet in terms of possible profit I am going to take tonight. I want to bet on Dignitas because they are in better form and have better players. Dignitas has taken a map off Astralis and VP + won against TENGRI (which Gambit couldn't manage) and they beat HR.  But then I remember Gambit as a team that decides to wreck on LAN. But then I think to myself is Gambit even capable this time? They lost to TENGRI 0-2 and didn't even come close against Mousesports. Sure they have good players on LAN but right now they aren't worth betting on. 
 
-
-
+**My Bet: 3-4% on Dignitas**
 
 
 -------------------------------------------------------------------
