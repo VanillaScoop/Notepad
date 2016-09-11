@@ -29,6 +29,7 @@ I know I have been insistent on underdog bets recently but they are working and 
 Cloud 9 have exceptionally players like stewie who have an enormous amount of talent and they are capable of beating NiP.
 
 **My Bet: 2% on Cloud 9**
+
 **You could go for the option for over 2.5 maps here but this stuff is pretty risky, like NiP or Cloud 9 could win 2-0**
 
 -------------------------------------------------------------------
