@@ -34,4 +34,3 @@ Cloud 9 have exceptionally players like stewie who have an enormous amount of ta
 
 -------------------------------------------------------------------
 
-More coming soon!
